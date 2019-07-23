@@ -8,5 +8,15 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <TextBlock>Hello there!</TextBlock>
+        <TextBlock>Hello there!</TextBlock>
+
+        <TextBlock>Hello there!</TextBlock>
+        <TextBlock>Hello there!</TextBlock>
+        <TextBlock>Hello there!</TextBlock>
+        <TextBlock>Hello there!</TextBlock>
+        <TextBlock>Hello there!</TextBlock>
+
+        <TextBlock>Hello there!</TextBlock>
+        <TextBlock>Hello there!</TextBlock>
     </Grid>
 </Window>
